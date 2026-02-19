@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ビバリウム",
+  "base_artist": "Ado",
+  "createdAt": "2026-02-19T08:01:49.944013Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビバリウム",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_ビバリウム_Ado.txt"
+    }
+  ]
+}
